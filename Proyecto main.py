@@ -13,7 +13,6 @@ while True:
 
 #Proyecto integrador parte 3
 import os
-
 def borrar_terminal():
     numero_de_veces = 0
     print ("borrar terminal")
@@ -26,3 +25,4 @@ def borrar_terminal():
 
 if __name__ == "__main__":
     borrar_terminal()
+    
