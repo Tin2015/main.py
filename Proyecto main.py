@@ -26,4 +26,3 @@ def borrar_terminal():
 
 if __name__ == "__main__":
     borrar_terminal()
-
